@@ -14,3 +14,7 @@
 1. function
 2. modul
 3. package
+
+## session 4
+1. numpy
+2. array
